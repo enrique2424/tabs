@@ -22,4 +22,14 @@
         android:name="com.deliv.tabs.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/notificacione"
+        android:name="com.deliv.tabs.notificacione"
+        android:label="NOTIFICACIONES"
+        tools:layout="@layout/fragment_notificacione" />
+    <fragment
+        android:id="@+id/seguimiento"
+        android:name="com.deliv.tabs.Seguimiento"
+        android:label="SEGUIMIENTO"
+        tools:layout="@layout/fragment_seguimiento" />
 </navigation>

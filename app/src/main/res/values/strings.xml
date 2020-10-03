@@ -7,8 +7,11 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">INICIO</string>
+    <string name="menu_gallery">UBICACIÓN</string>
+    <string name="menu_slideshow">EVALUA</string>
     <string name="text">BUSCA,PEDI Y AHORRA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">NOTIFICACIONES</string>
+    <string name="hell_blank_fragment">SEGUIMIENTO</string>
 </resources>
